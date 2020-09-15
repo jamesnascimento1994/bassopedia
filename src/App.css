@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+.header {
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 20px;
+}
+.header:visited {
+  text-decoration: none;
+}
+
+nav {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+h2 {
+	color: white;
+}
+
+body {
+  text-align: center;
+}
+
+.genres {
+  font-size: 70px;
+  text-decoration: none;
+  font-family: fantasy;
+}
+
+.genres:visited {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,14 @@
+.genre {
+    text-decoration: none;
+    font-family: fantasy;
+}
+
+.genre-plural {
+    color: black;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+h2 {
+    color: rgb(247, 162, 4);
+}

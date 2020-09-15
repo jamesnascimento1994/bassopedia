@@ -1,0 +1,23 @@
+.card {
+    margin: 0 auto;
+    background: #161a42;
+    block-size: 570px;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.title {
+    color: #d8d845;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.text {
+    color: rgb(97, 76, 76);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img {
+    height: 60vh;
+    width: 45vh;
+}
